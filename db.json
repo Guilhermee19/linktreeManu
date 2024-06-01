@@ -1,0 +1,12 @@
+{
+  "buttons": [
+    {
+      "id": 1,
+      "title": "Hello World"
+    },
+    {
+      "id": 2,
+      "title": "JSON Server is great"
+    }
+  ],
+}
