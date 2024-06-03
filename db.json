@@ -2,11 +2,13 @@
   "buttons": [
     {
       "id": 1,
-      "title": "Hello World"
-    },
-    {
-      "id": 2,
-      "title": "JSON Server is great"
+      "title": "Hello World",
+      "color": "#fff",
+      "is_active": true,
+      "link": "www.google.com.br",
+      "order": 0,
+      "type_button": "INSTA"
     }
-  ],
+  ]
 }
+
